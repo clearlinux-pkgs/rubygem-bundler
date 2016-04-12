@@ -4,7 +4,7 @@
 #
 Name     : rubygem-bundler
 Version  : 1.10.6
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/bundler-1.10.6.gem
 Source0  : https://rubygems.org/downloads/bundler-1.10.6.gem
 Summary  : No detailed summary available
